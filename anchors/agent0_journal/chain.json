@@ -1,0 +1,7 @@
+{
+  "schema": "agent-zero-witness-journal-chain",
+  "events": [],
+  "advisory_only": true,
+  "permission_granted": false,
+  "authority_created": false
+}

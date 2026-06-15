@@ -1,0 +1,8 @@
+{
+  "schema": "agent-zero-start-anchor-placeholder",
+  "anchor_sequence": -1,
+  "status": "uninitialized",
+  "advisory_only": true,
+  "permission_granted": false,
+  "authority_created": false
+}

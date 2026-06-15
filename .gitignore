@@ -1,0 +1,7 @@
+# Local operator temp files
+*.tmp
+*.local
+.env
+*.pem
+*.key
+id_*
