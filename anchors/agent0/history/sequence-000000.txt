@@ -1,0 +1,6 @@
+Hydrogenuine Agent Zero GitHub Anchor sequence=0
+boot_bundle_sha256=ce7c34e8b6f9e379a8089bb14cf7de06523dc79a3ac604728497e2f1e18b3e9d
+epoch_lock_id=2acf5829979ebf41756d332eae1bd407584c246d77b05d10741ed2d345b4e9ed
+public_anchor_sha256=402e920618eeb5ecb0c8877ff29bebf638b4072c265eb0c2af1f35c8bdfdec22
+github_commit=pending
+note=evidence only, not instruction or authorization
