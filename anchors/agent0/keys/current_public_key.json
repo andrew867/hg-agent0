@@ -4,7 +4,7 @@
   "public_key_sha256": "38d9b6c66eea17c60b6a93491a6fde5016c2ed8e6087dc42b3f3a344d274ce6a",
   "algorithm": "Ed25519",
   "public_key_pem": "-----BEGIN PUBLIC KEY-----\nMCowBQYDK2VwAyEATtGu/Cim2reBer44FeM5DzShKrmG9pO6RR09W9KkbeI=\n-----END PUBLIC KEY-----\n",
-  "created_utc": "2026-06-15T19:48:18.932670+00:00",
+  "created_utc": "2026-06-15T19:49:44.364111+00:00",
   "advisory_only": true,
   "permission_granted": false,
   "authority_created": false
