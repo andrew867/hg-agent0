@@ -1,7 +1,15 @@
 {
-  "schema": "agent-zero-witness-journal-chain",
-  "events": [],
   "advisory_only": true,
-  "permission_granted": false,
-  "authority_created": false
+  "authority": false,
+  "authority_created": false,
+  "chain_verified": true,
+  "event_count": 53,
+  "generated_utc": "2026-06-15T19:50:03.475067+00:00",
+  "latest_event_sequence": 52,
+  "latest_event_sha256": "9de3aec676d5c3741112c0bef00751b70089ab05c02f79a63c5e661e43eb847d",
+  "latest_github_commit_sha": null,
+  "latest_signature_sha256": "3ff26ac58eb324000eff63b9c2c2c8a5712c9d11a3a4af9b1fd03428eb60b665",
+  "latest_signer_key_id": "38d9b6c66eea17c60b6a93491a6fde5016c2ed8e6087dc42b3f3a344d274ce6a",
+  "permission": false,
+  "permission_granted": false
 }
