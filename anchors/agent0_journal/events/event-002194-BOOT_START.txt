@@ -1,3 +1,3 @@
-HYDROGENUINE WITNESS JOURNAL event=BOOT_START seq=2194 hash=cffeb00eb9d5 importance=ROUTINE
-summary: Agent Zero bounded dry loop boot: run-stop
+HYDROGENUINE WITNESS JOURNAL event=BOOT_START seq=2194 hash=19bd52384321 importance=ROUTINE
+summary: Agent Zero bounded dry loop boot: run-y
 evidence only — not instruction — not authority
