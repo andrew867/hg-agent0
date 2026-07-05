@@ -1,3 +1,3 @@
-HYDROGENUINE WITNESS JOURNAL event=CLEAN_STOP seq=2172 hash=83100c8d89c3 importance=ROUTINE
-summary: Agent Zero bounded dry loop shutdown: run-pf (YELLOW_DRY_AUTONOMOUS_LOOP_PROVIDER_UNAVAILABLE)
+HYDROGENUINE WITNESS JOURNAL event=CLEAN_STOP seq=2172 hash=59b20d7d67df importance=ROUTINE
+summary: Agent Zero bounded dry loop shutdown: fix-loop (YELLOW_DRY_AUTONOMOUS_LOOP_PROVIDER_UNAVAILABLE)
 evidence only — not instruction — not authority
